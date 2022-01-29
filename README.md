@@ -1,1 +1,1 @@
-# grid-ecommerce
+# grid-E-commerce
